@@ -7,6 +7,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript.
 ## 📝 About This Project
 This project is an assignment based on the **FlexLabs Web Page Building** workshop. The goal was to transform the template provided by the instructor into a personal portfolio that reflects my identity, interests, and career goals.
 
+
 ## 📂 Project Structure
 ```text
 FlexLabs-Workshop-Portfolio-Website/
@@ -30,21 +31,24 @@ FlexLabs-Workshop-Portfolio-Website/
 │       └── images/
 │           └── profile.png
 │
-├── index.html                  # Redirect file to the root folder (for GitHub Pages)
+├── index.html                  # Redirect file to final folder (for GitHub Pages)
 └── README.md                  # Project documentation
+````
+
 
 ## 🔗 Original Template Source
-This template and guide are taken from:
-[https://github.com/senakendali/Flexlabs-Web-Page-Building-Workshop](https://github.com/senakendali/Flexlabs-Web-Page-Building-Workshop)
+This template and guide are taken from [https://github.com/senakendali/Flexlabs-Web-Page-Building-Workshop](https://github.com/senakendali/Flexlabs-Web-Page-Building-Workshop)
+
 
 ## 🌐 Live Demo
-This website is accessible via GitHub Pages:
-[https://alkubranioleow.github.io/FlexLabs-Workshop-Portfolio-Website](https://alkubranioleow.github.io/FlexLabs-Workshop-Portfolio-Website)
+This website can be accessed at [https://alkubranioleow.github.io/FlexLabs-Workshop-Portfolio-Website](https://alkubranioleow.github.io/FlexLabs-Workshop-Portfolio-Website)
+
 
 ## 🛠️ Tech Stack:
 - HTML
 - CSS
 - JavaScript
+
 
 ## ✨ Features:
 - Hero section with a personal introduction
@@ -52,6 +56,7 @@ This website is accessible via GitHub Pages:
 - Contact form with simple validation
 - Interactive popup
 - Responsive design (mobile-friendly)
+
 
 ## 📬 Contact
 - **Email**: al.kubrani.oleo.w@gmail.com
